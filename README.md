@@ -1,6 +1,4 @@
-# ZPRO
-
-ZPROTOCOL is a Sustainable Ecosystem|
+# $ZPRO - ZPROTOCOL is a Sustainable Ecosystem|
 
 ZPRO makes lending platforms more secure by eliminating the gas wars and shifting the miner’s profit to the users.
 
